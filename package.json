@@ -73,7 +73,8 @@
             "universal"
           ]
         }
-      ]
+      ],
+      "x64ArchFiles": "**/node_modules/uiohook-napi/prebuilds/**"
     },
     "files": [
       "out/**/*",
